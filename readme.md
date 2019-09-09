@@ -3,4 +3,4 @@ This is a very simple operation system, that can open, edit and save files and d
 
 First time you boot HIKos you will have to create an user. Fill in a weird username and a short password. Next time you boot HIKos you will be asked for username and password. Safety First!! If you forgot your password there is only one option: Create a new user!!
 
-HIKos is written in C# width [Cosmos](https://gocosmos.org).
+HIKos is written in C# with [Cosmos](https://gocosmos.org).
