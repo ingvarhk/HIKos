@@ -15,10 +15,11 @@ HIKos can be booted on a virtual machine (VMware, VirtualBox etc.) or on real/ph
 
 In this example we will be using VirtualBox. Create a new virtual machine, name it HIKos and set the Operation System to Other/Unknown. Run it and you will probably see a file explorer-window popping up. Find the .iso image from before and click open. If everything goes well, HIKos will boot very soon.
 
-## Commands and Documentation
+## Commands
 It's not easy to find a valid command if just typing random stuff. But you don't have to. Here is a complete list of commands you can use in HIKos.
 
 - **info** Shows general info about the OS and the PC
 - **help** List of basic commands. 
 - **hacky** Changes the textcolor to green
 - **normal** Changes the textcolor back to white
+- not all are listet here yet...
