@@ -6,3 +6,5 @@ First time you boot HIKos you will have to create an user. Fill in a weird usern
 ![](http://ingvar.hahnkristensen.dk/assets/screenshot.PNG)
 
 HIKos is written in C# with [Cosmos](https://gocosmos.org).
+
+![](http://ingvar.hahnkristensen.dk/assets/screenshot.PNG)
