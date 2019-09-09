@@ -13,4 +13,4 @@ HIKos can be booted on a virtual machine (VMware, VirtualBox etc.) or on real/ph
 - The .iso image. Download [here](https://google.com)
 - A virtual machine ([VMware Workstation](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html), [VirtualBox](https://www.virtualbox.org/wiki/Downloads))
 
-In this example we will be using VirtualBox. Create a new virtual machine
+In this example we will be using VirtualBox. Create a new virtual machine, name it HIKos and set the Operation System to Other/Unknown. Run it and you will probably see a file explorer-window popping up.
