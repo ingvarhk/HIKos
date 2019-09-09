@@ -20,6 +20,6 @@ It's not easy to find a valid command if just typing random stuff. But you don't
 
 - **info** Shows general info about the OS and the PC
 - **help** List of basic commands. 
-- **hacky** Changes the textcolor to green
-- **normal** Changes the textcolor back to white
+- **hacky color** Changes the textcolor to green
+- **normal color** Changes the textcolor back to white
 - not all are listet here yet...
