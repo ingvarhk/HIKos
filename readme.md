@@ -7,7 +7,7 @@ HIKos is written in C# with [Cosmos](https://gocosmos.org). This is the fast way
 
 ![](http://ingvar.hahnkristensen.dk/assets/screenshot.PNG)
 
-##Download, install and setup
+## Download, install and setup
 HIKos can be booted on a virtual machine(VMware, VirtualBox etc.) or on real/physical hardware. The second option is a bit riscy, so i would reccomend booting it on a virtual machine. Here is what you will need:
 
 -The .iso image. Download [here](https://google.com)
